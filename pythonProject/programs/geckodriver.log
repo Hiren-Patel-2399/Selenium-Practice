@@ -1,0 +1,53 @@
+1704561877199	geckodriver	INFO	Listening on 127.0.0.1:58735
+1704561880289	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hiren\\AppData\\Local\\Temp\\rust_mozprofile5hKy6e"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1704561881224	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-foreground"
+1704561882207	Marionette	INFO	Listening on port 58743
+1704561882631	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+1704561897707	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1704561912129	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.log: "RemoteSettingsWorker error: DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements."
+console.error: (new RemoteSettingsWorkerError("DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements.", "resource://services-settings/RemoteSettingsWorker.sys.mjs", 34))
+JavaScript error: , line 0: NS_ERROR_FAILURE
+1704562198372	Marionette	INFO	Stopped listening on port 58743
+Dynamically enable window occlusion 1
+console.error: "TelemetryScheduler.shutdown - Already shut down"
+e" "C:\\Users\\hiren\\AppData\\Local\\Temp\\rust_mozprofileNCHSl6"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1704561917689	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-foreground"
+1704561917750	Marionette	INFO	Listening on port 58798
+1704561918188	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+JavaScript warning: https://www.amazon.com/, line 1951: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1704561929680	Marionette	INFO	Stopped listening on port 58798
+JavaScript warning: https://m.media-amazon.com/images/I/11Y+5x+kkTL._RC|51A0Yv+6PAL.js,11yKORv-GTL.js,11GgN1+C7hL.js,01+z+uIeJ-L.js,01VRMV3FBdL.js,21BJeD9yjcL.js,012FVc3131L.js,11rRjDLdAVL.js,516j7qaWchL.js,11YA5PIFcPL.js,11tMohjWmVL.js,11OREnu1epL.js,11r3xGoc2RL.js,21LOBHtNUsL.js,0190vxtlzcL.js,51+N26vFcBL.js,01JYHc2oIlL.js,31nfKXylf6L.js,01ezj5Rkz1L.js,11bEz2VIYrL.js,31o2NGTXThL.js,01rpauTep4L.js,01qR6OIfeQL.js_.js?AUIClients/AmazonUI&nXzFiTm+#786834-T1.568321-T1, line 14: Script terminated by timeout at:
+x@https://m.media-amazon.com/images/I/11Y+5x+kkTL._RC|51A0Yv+6PAL.js,11yKORv-GTL.js,11GgN1+C7hL.js,01+z+uIeJ-L.js,01VRMV3FBdL.js,21BJeD9yjcL.js,012FVc3131L.js,11rRjDLdAVL.js,516j7qaWchL.js,11YA5PIFcPL.js,11tMohjWmVL.js,11OREnu1epL.js,11r3xGoc2RL.js,21LOBHtNUsL.js,0190vxtlzcL.js,51+N26vFcBL.js,01JYHc2oIlL.js,31nfKXylf6L.js,01ezj5Rkz1L.js,11bEz2VIYrL.js,31o2NGTXThL.js,01rpauTep4L.js,01qR6OIfeQL.js_.js?AUIClients/AmazonUI&nXzFiTm+#786834-T1.568321-T1:14:327
+
+Dynamically enable window occlusion 1
+console.error: "TelemetryScheduler.shutdown - Already shut down"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NS_ERROR_FAILURE
+1704562943119	geckodriver	INFO	Listening on 127.0.0.1:59110
+1704562946221	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\hiren\\AppData\\Local\\Temp\\rust_mozprofileLRbOb3"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1704562947035	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-foreground"
+1704562948173	Marionette	INFO	Listening on port 59118
+1704562948599	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+1704562951782	Marionette	INFO	Stopped listening on port 59118
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.sys.mjs", 236))
+console.error: (new Error("IndexedDB: main/message-groups getLastModified() IndexedDB:  execute() The application is shutting down", "resource://services-settings/IDBHelpers.sys.mjs", 16))
+console.error: (new Error("IndexedDB: main/whats-new-panel getLastModified() IndexedDB:  execute() The application is shutting down", "resource://services-settings/IDBHelpers.sys.mjs", 16))
+console.error: "TelemetryScheduler.shutdown - Already shut down"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NS_ERROR_FAILURE

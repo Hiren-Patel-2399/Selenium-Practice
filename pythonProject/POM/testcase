@@ -1,0 +1,12 @@
+testcase1: register
+step1:open browser and enter URL
+step2:click on register link
+step3:select gender, enter firstname, last name, email, password, confirm password and click on register button
+step4: close browser
+
+
+testcase2: login
+step1:open browser and enter URL
+step2:click on login link
+step3:enter email, password and click on login button
+step4: close browser
